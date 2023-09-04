@@ -7,15 +7,15 @@ body{
     padding: 5px;
 }
 .logo{
-    width:10%;
-    margin-top: 20px;
+    width:15%;
+    margin-top: 40px;
 }
 .pattern{
-    background-color: skyblue;
+    background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    background-size: 20%;
+    background-size: 25%;
     background-repeat: repeat-x;
-    height: 80px;
+    height: 100px;
 }
 .main-title{
     margin-top: 1em;
@@ -65,20 +65,23 @@ table{
 .light{
     background-color: rgb(169, 231, 242);
 }
+.text-article .last{
+    margin-bottom: 2em;
+}
 .maybe{
     color:gray;
     font-weight: 600;
 }
-.img-container1{
+.img-container1, .img-container2{
+    padding: 1em;
     margin-top: 1em;
-    width: 300px;
-    height: 200px;
+    width: 250px;
+    height: 180px;
+}
+.img-container1{
     background-image: url(../img/monitor.jpg);
     }
 .img-container2{
-    margin-top: 1em;
-    width: 300px;
-    height: 200px;
     background-image: url(../img/graph.jpg);
 }
 .text-img-footer{
