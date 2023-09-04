@@ -17,3 +17,27 @@
 .main-title{
     margin-top: 1em;
 }
+.text-gray{
+    color: gray;
+}
+.text-lightblue{
+    color: skyblue;
+}
+.smaller{
+    font-size: smaller;
+}
+.content-figure{
+    margin-top: 1em;
+}
+.description{
+    font-size: 11px;
+}
+.text-article{
+    margin-top: 1em;
+}
+p{
+    margin-bottom: 1em;
+}
+.highlighted{
+    background-color: yellow;
+}
