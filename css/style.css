@@ -33,11 +33,32 @@
     font-size: 11px;
 }
 .text-article{
-    margin-top: 1em;
+    margin-top: 2em;
 }
 p{
     margin-bottom: 1em;
 }
 .highlighted{
     background-color: yellow;
+}
+.list{
+    margin-left: 1em;
+}
+table{
+    margin-top: 2em;
+    border-collapse: collapse;
+    text-align: left;
+}
+.head-row{
+    background-color: rgb(0, 173, 227);
+    color: white;
+}
+.col-s{
+    width: 25%;
+}
+.col-l{
+    width: 50%;
+}
+.light{
+    background-color: rgb(169, 231, 242);
 }
